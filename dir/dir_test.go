@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"FordDevTest/dir"
+	"github.com/kurisu1024/FordDevTest/dir"
 	"github.com/stretchr/testify/suite"
 )
 

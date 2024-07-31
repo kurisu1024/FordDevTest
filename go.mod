@@ -1,4 +1,4 @@
-module FordDevTest
+module github.com/kurisu1024/FordDevTest
 
 go 1.22
 
